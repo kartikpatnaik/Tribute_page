@@ -1,0 +1,32 @@
+*{
+	background-color: #e6e6e6;
+}
+h1{
+	text-align: center;
+}
+img{
+	padding-top: 90px;
+	float: left;
+	width: 47%
+
+
+}
+.aa{
+
+	float: right;
+	width: 45%;
+	padding: 3%;
+	border-style: solid;
+	
+
+}
+p{
+	float: left;
+}
+table, tr, td{
+	border:1px solid black;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+}
